@@ -1,0 +1,9 @@
+content:
+- Basic string methods
+- Split and join
+- Command line arguments
+- Reading files
+- Context manager
+- Set
+- Set operations
+- Argparse module
